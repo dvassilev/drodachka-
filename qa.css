@@ -1,0 +1,58 @@
+.collapsible {
+    color: rgb(238, 231, 231);
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 25px;
+    border-radius: 2px;
+    margin-top: 7px;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 800 !important;
+}
+
+.even{
+  background-color: #6319B3;
+}
+
+.even:hover{
+    background-color: rgb(75, 21, 133);
+}
+
+.odd{
+  background-color: #8229E0;
+}
+
+.odd:hover{
+    background-color: rgb(142, 64, 224);
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f2e8fa;
+  margin: 0px 0px 10px 0px;
+  width: 99.9%;
+  margin: 0 auto;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 900 !important;
+  font-size: 18px;
+}
+
+h1{
+    font-family: 'Amatic SC', cursive;
+    font-weight: 900 !important;
+    font-size: 60px !important;
+    color: rgb(238, 231, 231);
+}
+
+#qa {
+    background-color: rgb(113, 116, 192);
+    padding: 40px;
+}
+
