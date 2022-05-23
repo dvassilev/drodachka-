@@ -1,2 +1,2 @@
 # drodachka-
-FInal project for html and css course in SoftUni
+FInal project for HTML5 & CSS3 sites - курс за ученици , октомври 2021 
