@@ -1,2 +1,2 @@
 # drodachka-
-FInal project for HTML5 & CSS3 sites - курс за ученици , октомври 2021 
+FInal project for HTML5 & CSS3 sites - students course, October 2021
